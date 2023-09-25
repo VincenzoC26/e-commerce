@@ -4,13 +4,17 @@ This e-commerce project is an easy-to-use platform for shopping. You can browse 
 # Key Features
 Registration and Login: Users can create new accounts or log in with their existing credentials to personalize their shopping experience.
 
-# Product Navigation: Users can browse a wide range of products, viewing details, images, and prices.
+# Product Navigation: 
+Users can browse a wide range of products, viewing details, images, and prices.
 
-# Shopping Cart: Users can add products to the cart and manage selected items before payment.
+# Shopping Cart: 
+Users can add products to the cart and manage selected items before payment.
 
-# User Profile Management: Users can view and update their profile information, including contact details and shipping data.
+# User Profile Management: 
+Users can view and update their profile information, including contact details and shipping data.
 
-# Order Creation: Users can complete the purchasing process by creating orders, selecting desired items from the cart, and providing payment information.
+# Order Creation: 
+Users can complete the purchasing process by creating orders, selecting desired items from the cart, and providing payment information.
 
 # Key Technologies
 Backend: The project's backend is developed using Spring Boot and Java. This layer handles all server-side operations, including processing user requests and interacting with the database.
