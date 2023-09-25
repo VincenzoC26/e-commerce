@@ -43,7 +43,8 @@ Registration and Login: Users can create new accounts or log in with their exist
 3. Browse products on the homepage and add them to your cart.
 4. Access your user page to view your profile and order history.
 5. Create new orders from the cart page.
-6. Once the backend server is running, insert the products from the 'products' file that will be displayed on the homepage.
+6. Once the backend server is running, insert the products from the 'products.json' file that will be displayed on the homepage, make a post request using postman
+   at http://localhost:9090/api/v1/products/addProducts.
 
 
 
