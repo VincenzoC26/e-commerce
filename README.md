@@ -4,24 +4,20 @@ This e-commerce project is an easy-to-use platform for shopping. You can browse 
 # Key Features
 Registration and Login: Users can create new accounts or log in with their existing credentials to personalize their shopping experience.
 
-# Product Navigation: 
-Users can browse a wide range of products, viewing details, images, and prices.
+1. Product Navigation: Users can browse a wide range of products, viewing details, images, and prices.
 
-# Shopping Cart: 
-Users can add products to the cart and manage selected items before payment.
+2. Shopping Cart: Users can add products to the cart and manage selected items before payment.
 
-# User Profile Management: 
-Users can view and update their profile information, including contact details and shipping data.
+3. User Profile Management: Users can view and update their profile information, including contact details and shipping data.
 
-# Order Creation: 
-Users can complete the purchasing process by creating orders, selecting desired items from the cart, and providing payment information.
+4. Order Creation: Users can complete the purchasing process by creating orders, selecting desired items from the cart, and providing payment information.
 
 # Key Technologies
-Backend: The project's backend is developed using Spring Boot and Java. This layer handles all server-side operations, including processing user requests and interacting with the database.
+1. Backend: The project's backend is developed using Spring Boot and Java. This layer handles all server-side operations, including processing user requests and interacting with the database.
 
-Frontend: The frontend is built with React JS, offering a responsive and intuitive user interface.
+2. Frontend: The frontend is built with React JS, offering a responsive and intuitive user interface.
 
-Database: The database used is PostgreSQL, which stores and manages data related to products, users, and orders.
+3. Database: The database used is PostgreSQL, which stores and manages data related to products, users, and orders.
 
 # Login Page:
 ![Screenshot 2023-09-25 141828](https://github.com/VincenzoC26/e-commerce/assets/102054660/298d9580-2361-4421-9a84-334f5fc7974b)
